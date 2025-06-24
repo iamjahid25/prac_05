@@ -10,7 +10,6 @@ def get_name_from_email(email):
     name = ' '.join(parts).title()
     return name
 
-
 def main():
     """Save names and email addresses together, then show them."""
     email_to_name = {}
