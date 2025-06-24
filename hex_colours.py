@@ -2,7 +2,6 @@
 Hexadecimal Colour Code Lookup
 Use a dictionary to find the hex code for a color by its name.
 """
-
 COLOUR_CODES = {
     "aliceblue": "#f0f8ff",
     "antiquewhite": "#faebd7",
